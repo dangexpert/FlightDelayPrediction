@@ -1,2 +1,0 @@
-# FlightDelayPrediction
-Machine Learning Project
